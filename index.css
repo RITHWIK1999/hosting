@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav1{
+    background-color: rgb(42, 25, 63);
+}
+.content1{
+    background-color: rgb(11, 0, 28);
+    color: white;
+}
+.cover{
+    color: blueviolet;
+}
+.box1{
+    background-color: rgb(62, 21, 137);
+}
+.mask{
+    background-color: rgb(33, 0, 52);
+}
+.featured{
+    color: blueviolet;
+}
+.maskp{
+    background-color: rgb(33, 0, 52);
+    opacity: 0.5;
+}
+.rithwik{
+    color: blueviolet;
+    font-family: cursive;
+}
+.heading{
+    font-family: cursive;
+}
+.img1{
+    background-image: url(Ellipse\ 3.png);
+    background-repeat: no-repeat;
+}
+.s2{
+    box-shadow: 0px 25px 80px rgba(255, 255, 255, 0.5);
+}
+.work{
+    background: radial-gradient(circle, white 0%,rgb(76, 2, 120) 50%, black 100%);
+}
