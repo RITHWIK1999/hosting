@@ -43,3 +43,22 @@
 .work{
     background: radial-gradient(circle, white 0%,rgb(76, 2, 120) 50%, black 100%);
 }
+@media screen and (max-width:768px){
+    .navbar1{
+        background-color:rgb(33, 0, 52); 
+    }
+    .navbar2:hover{
+        background-color: white;
+        color:rgb(33, 0, 52) ;
+    }
+}
+@media screen and (max-width:320px){
+    .navbar1{
+        background-color:rgb(33, 0, 52); 
+    }
+    .navbar2:hover{
+        background-color: white;
+        color:rgb(33, 0, 52) ;
+    }
+}
+
